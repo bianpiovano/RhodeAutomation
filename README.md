@@ -29,8 +29,10 @@ npx playwright test --headed --project=chromium --workers=1
 ![ezgif com-video-to-gif (1)](https://github.com/bianpiovano/RhodeAutomation/assets/85644669/fa65aa11-26f3-47f9-a547-f8888b37a3ff)
 
 📜 **Notes**📜
+
 I used Visual Studio Code to write this testcases👌🏼
 Executed it multiple time in my personal computer‼️ :
+
 - OS: Windows 11 
 - Processor: AMD Ryzen 5 3400G with Radeon Vega Graphics 3.70 GHz
 - Installed RAM: 32.0 GB
