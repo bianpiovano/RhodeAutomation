@@ -18,4 +18,7 @@ Testing the e-commerce site of the Rhode brand.
 ```console
 npx playwright test --headed --project=chromium --workers=1
 ```
+▶ Preview ▶
+
+![ezgif com-video-to-gif](https://github.com/bianpiovano/RhodeAutomation/assets/85644669/c1123bf6-e45b-41b2-a968-e02d41ecfd62)
 
