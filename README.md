@@ -49,8 +49,5 @@ Executed it multiple time on my personal computer 💻:
 - Neither the company nor anyone within the company granted permission for conducting the tests. However, all content was exclusively used for practice and learning purposes.
 
 
-    /ᐢ⑅ᐢ\   ♡   ₊˚  
- ꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
- ./づ~ :¨·.·¨:     ₊˚  
-       `·..·‘    ₊˚   ♡ 
-     Goodbye and have a good day 
+  ૮ ˶ᵔ ᵕ ᵔ˶ 𐙚ა ‧₊˚ ⋅ ♡ 
+ Goodbye and have a good day 
