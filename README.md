@@ -43,7 +43,7 @@ Executed it multiple time on my personal computer 💻:
 - Installed RAM: 32.0 GB
 - System Type: 64-bit operating system, x64-based processor
 
-🎀 Please have in mind that some elements properties may change and can modify the code, updates can happen too but I will try to keep it working 🎀
+🎀 Please have in mind that some elements properties may change and can modify the code, updates can happen too but I will make an effort to keep it functional.🎀
 
 🪄**Permissions**🪄
 - Neither the company nor anyone within the company granted permission for conducting the tests. However, all content was exclusively used for practice and learning purposes.
