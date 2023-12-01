@@ -27,8 +27,7 @@ npx playwright test --headed --project=chromium --workers=1
 - I use the "headed" command to see what's happening with the browsers while executing.
 - The "project-chromium" command runs the tests only in the Chrome browser (It can help to reduce the executing time).
 - "workers=1" runs one test at a time (Helpful to avoid consuming too much RAM).
-
-I will add this to the config file next time 😜
+- I will add this to the config file next time 😜
 
  💫 **Preview** 👀
 
