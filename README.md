@@ -47,3 +47,18 @@ Executed it multiple time on my personal computer 💻:
 
 🪄**Permissions**🪄
 - Neither the company nor anyone within the company granted permission for conducting the tests. However, all content was exclusively used for practice and learning purposes.
+
+          `;-.          ___,
+            `.`\_...._/`.-"`
+              \        /      ,
+              /()   () \    .' `-._
+             |)  .    ()\  /   _.'
+             \  -'-     ,; '. <
+             ;.__     ,;|   > \
+            / ,    / ,  |.-'.-'
+         (_/    (_/ ,;|.<`
+             \    ,     ;-`
+              >   \    /
+             (_,-'`> .'
+  Godbye and have  (_,'
+A good day 
