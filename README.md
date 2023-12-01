@@ -30,8 +30,8 @@ npx playwright test --headed --project=chromium --workers=1
 
 📜 **Notes**📜
 
-I used Visual Studio Code to write this testcases👌🏼
-Executed it multiple time in my personal computer‼️ :
+I used Visual Studio Code to write this testcases 👌🏼
+Executed it multiple time on my personal computer 💻:
 
 - OS: Windows 11 
 - Processor: AMD Ryzen 5 3400G with Radeon Vega Graphics 3.70 GHz
