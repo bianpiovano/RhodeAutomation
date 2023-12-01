@@ -24,6 +24,10 @@ Testing the e-commerce site of the Rhode brand.
 ```console
 npx playwright test --headed --project=chromium --workers=1
 ```
+- I use the "headed" command to see what's happening with the browsers while executing.
+- The "project-chromium" command runs the tests only in the Chrome browser (It can help to reduce the executing time).
+- "workers=1" runs one test at a time (helpful to avoid consuming too much RAM).
+
  💫 **Preview** 👀
 
 ![ezgif com-video-to-gif (1)](https://github.com/bianpiovano/RhodeAutomation/assets/85644669/fa65aa11-26f3-47f9-a547-f8888b37a3ff)
