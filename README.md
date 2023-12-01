@@ -1,6 +1,6 @@
 # RhodeAutomation
 
-[![rhodescreenshot.png](https://i.postimg.cc/KYVBzwjx/rhodescreenshot.png)](https://postimg.cc/TyVpNkn4)
+![rhodescreenshot](https://github.com/bianpiovano/RhodeAutomation/assets/85644669/d8e0b0f4-77db-4d62-b77b-84c085b51255)
 
 ## ✨ Description ✨ ##
 These are a pair of automated test cases using Playwright with TypeScript. 
