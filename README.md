@@ -3,7 +3,7 @@
 [![rhodescreenshot.png](https://i.postimg.cc/KYVBzwjx/rhodescreenshot.png)](https://postimg.cc/TyVpNkn4)
 
 ## ✨ Description ✨ ##
-These are a pair of automated test cases using Playwright with JavaScript. 
+These are a pair of automated test cases using Playwright with TypeScript. 
 Testing the e-commerce site of the Rhode brand.
 
  🔊 **Requirements** 🔊
