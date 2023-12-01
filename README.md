@@ -50,4 +50,4 @@ Executed it multiple time on my personal computer 💻:
 
 
 # ♡  ૮  ˶ᵔ ᵕ ᵔ˶ 𐙚ა ‧₊˚ ⋅ ‧˚ ⋅ 
- Goodbye and have a good day ♡
+Goodbye and have a good day ♡
