@@ -41,4 +41,4 @@ Executed it multiple time on my personal computer 💻:
 🎀 Please have in mind that some elements properties may change and can modify the code, updates can happen too but I will try to keep it working 🎀
 
 🪄**Permissions**🪄
-Neither the company nor anyone within the company granted permission for conducting the tests. However, all content was exclusively used for practice and learning purposes.
+- Neither the company nor anyone within the company granted permission for conducting the tests. However, all content was exclusively used for practice and learning purposes.
