@@ -8,10 +8,9 @@ Testing the e-commerce site of the Rhode brand.
 
  🔊 **Requirements** 🔊
 - Node.JS 
-[Download it here](https://nodejs.org/en)
+[Download it](https://nodejs.org/en)
 - Playwright
-[Install it here](https://playwright.dev/docs/intro)
-https://playwright.dev/docs/intro
+[Install it](https://playwright.dev/docs/intro)
 - Drivers (for Chrome, Firefox and Safari)
 
  💭 **How to execute?** 💭 
