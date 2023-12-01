@@ -11,7 +11,8 @@ Testing the e-commerce site of the Rhode brand.
 [Download it](https://nodejs.org/en)
 - Playwright
 [Install it](https://playwright.dev/docs/intro)
-- Drivers (for Chrome, Firefox and Safari)
+- Browser drivers (for Chrome, Firefox and Safari)
+[Learn more](https://playwright.dev/docs/browsers#install-browsers)
 
  💭 **How to execute?** 💭 
 - Clone this project in a personal folder
